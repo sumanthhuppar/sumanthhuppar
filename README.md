@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![sumanthhuppar's GitHub | Languages Over Time](https://stats.quine.sh/sumanthhuppar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sumanthhuppar)
