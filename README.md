@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 [![sumanthhuppar's GitHub | Languages Over Time](https://stats.quine.sh/sumanthhuppar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sumanthhuppar)
+[![sumanthhuppar's GitHub | Stats](https://stats.quine.sh/sumanthhuppar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sumanthhuppar)
